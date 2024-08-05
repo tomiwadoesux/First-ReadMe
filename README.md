@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">
+  My name is Wale-Durojaye Ayotomiwa. I'm just a Product Designer that wants to have a balanced work life like the Taijitu
+</h1>
+
+<img src="[https://res.cloudinary.com/duewivpjt/image/upload/v1721124374/Screenshot_2024-07-16_at_11.05.28_vzig09.png](https://res.cloudinary.com/duewivpjt/image/upload/v1722879934/3_g2cain.jpg)" alt="img" width="1500px" height="500px">
 
 <p align="center">
   <em>Product Designer | Minimalist | Innovator</em>
