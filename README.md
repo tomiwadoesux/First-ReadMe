@@ -1,24 +1,57 @@
-<h1 align="center">
-  My name is Wale-Durojaye Ayotomiwa. I'm just a Product Designer that wants to have a balanced work life like the Taijitu
-</h1>
 
-<img src="[https://res.cloudinary.com/duewivpjt/image/upload/v1721124374/Screenshot_2024-07-16_at_11.05.28_vzig09.png](https://res.cloudinary.com/duewivpjt/image/upload/v1722879934/3_g2cain.jpg)" alt="img" width="1500px" height="500px">
+<h2 align="center">
+  
+</h2>
 
-<p align="center">
-  <em>Product Designer | Minimalist | Innovator</em>
+<div style="text-align: center;">
+  <a href="https://tomiwadoesux.brimble.app/">
+    <img 
+      src="https://res.cloudinary.com/duewivpjt/image/upload/v1722930366/ejf_fx50nw.png" 
+      alt="img" 
+      width="100%" 
+      height="100%" 
+      style="border-radius: 95px;"
+    >
+  </a>
+</div>
+
+
+
+
+
+
+<p align="center" >
+<!--   <em> 
+    Product Designer | Minimalist | Innovator
+  </em> -->
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" height="25"></a>
-  <a href="https://www.behance.net/[your-behance]/"><img src="https://img.shields.io/badge/Behance-%231769FF.svg?&style=flat-square&logo=behance&logoColor=white" height="25"></a>
+  <a href="https://www.linkedin.com/in/tomiwadoesux/">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"  height="40">
+  </a>
+  <a href="mailto:ayotomiwawaledurojaye@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="40">
+  </a>
+  <a href="https://medium.com/@tomiwadoesux">
+    <img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=FFFFFF" height="40">
+  </a>
+  <a href="https://x.com/@tomiwadoesux">
+    <img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=FFFFFF" height="40">
+  </a>
 </p>
+
 
 ---
 
 ### About Me
 
-I am a passionate product designer dedicated to creating user-centered designs that are both functional and beautiful. With a strong background in UX/UI design, I aim to solve complex problems through simple and elegant solutions.
+<div style="text-align: justify;">
+  My name is Wale-Durojaye Ayotomiwa, I am a passionate product designer dedicated <br>
+  to creating user-centered designs that are both functional and beautiful. With a strong <br>
+  background in UX/UI design, I aim to solve complex problems through simple and elegant <br>
+  solutions.
+</div>
 
 ### Skills
 
